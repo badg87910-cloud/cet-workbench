@@ -6,51 +6,51 @@ window.CET_CONTENT = {
     {
       "id": "n01",
       "date": "2026-10-16",
+      "src": "CGTN·Travel",
+      "title": "A new railway corridor: How Nanning links Chinese and ASEAN markets",
+      "link": "https://news.cgtn.com/news/2026-10-16/A-new-railway-corridor-How-Nanning-links-Chinese-and-ASEAN-markets-1Rif5HQq3qo/p.html"
+    },
+    {
+      "id": "n02",
+      "date": "2026-10-16",
       "src": "CGTN·China",
       "title": "Foreign ministers of Djibouti, Republic of Congo to visit China",
       "link": "https://news.cgtn.com/news/2026-10-16/Foreign-ministers-of-Djibouti-Republic-of-Congo-to-visit-China-1Ri2FvJGZuE/p.html"
     },
     {
-      "id": "n02",
+      "id": "n03",
       "date": "2026-10-16",
       "src": "CGTN·China",
       "title": "Foreign diplomats explore Ningxia's specialty industries",
       "link": "https://news.cgtn.com/news/2026-10-16/Foreign-diplomats-explore-Ningxia-s-specialty-industries-1RhVzlSvQL6/p.html"
     },
     {
-      "id": "n03",
+      "id": "n04",
       "date": "2026-10-16",
       "src": "CGTN·China",
       "title": "How AI is redefining precision farming in China",
       "link": "https://news.cgtn.com/news/2026-10-16/How-AI-is-redefining-precision-farming-in-China-1RhsBvUDm12/p.html"
     },
     {
-      "id": "n04",
+      "id": "n05",
       "date": "2026-10-13",
       "src": "CGTN·Business",
       "title": "Chinese vice premier meets with Apple executive chairman",
       "link": "https://news.cgtn.com/news/2026-10-13/Chinese-vice-premier-meets-with-Apple-executive-chairman-1RcoeYcFN04/p.html"
     },
     {
-      "id": "n05",
+      "id": "n06",
       "date": "2026-10-12",
       "src": "CGTN·Culture",
       "title": "Listening to the people, building trust",
       "link": "https://news.cgtn.com/news/2026-10-12/Listening-to-the-people-building-trust-1RbmdZwTBnO/p.html"
     },
     {
-      "id": "n06",
+      "id": "n07",
       "date": "2026-10-12",
       "src": "CGTN·Culture",
       "title": "Documentary film screening draws international audience",
       "link": "https://news.cgtn.com/news/2026-10-12/Documentary-film-screening-draws-international-audience-1Rbmk9K3QnS/p.html"
-    },
-    {
-      "id": "n07",
-      "date": "2026-10-09",
-      "src": "CGTN·Travel",
-      "title": "Macao draws record National Day crowds",
-      "link": "https://news.cgtn.com/news/2026-10-09/Macao-draws-record-National-Day-crowds-1R6lurnnz0s/p.html"
     },
     {
       "id": "n08",
@@ -75,17 +75,17 @@ window.CET_CONTENT = {
     },
     {
       "id": "n11",
-      "date": "2026-10-02",
-      "src": "CGTN·Travel",
-      "title": "A glimpse of autumn in rural China",
-      "link": "https://news.cgtn.com/news/2026-10-02/A-glimpse-of-autumn-in-rural-China-1QUMJk2kovu/p.html"
-    },
-    {
-      "id": "n12",
       "date": "2026-09-28",
       "src": "CGTN·Sports",
       "title": "Zimbabwe beats Uganda to win Rugby Africa Sevens title",
       "link": "https://newsaf.cgtn.com/news/2026-09-28/Zimbabwe-beats-Uganda-to-win-Rugby-Africa-Sevens-title-1QO8hDL8KrK/p.html"
+    },
+    {
+      "id": "n12",
+      "date": "2026-09-28",
+      "src": "CGTN·Travel",
+      "title": "Walk into an oil painting on Pamir's Golden Grassland",
+      "link": "https://news.cgtn.com/news/2026-09-28/Walk-into-an-oil-painting-on-Pamir-s-Golden-Grassland-1QO1fU3DgEo/p.html"
     },
     {
       "id": "n13",
@@ -98,8 +98,8 @@ window.CET_CONTENT = {
       "id": "n14",
       "date": "2026-09-25",
       "src": "CGTN·Travel",
-      "title": "China braces for surge in travel ahead of the upcoming holidays",
-      "link": "https://news.cgtn.com/news/2026-09-25/China-braces-for-surge-in-travel-ahead-of-the-upcoming-holidays-1QHpMuDHUdy/p.html"
+      "title": "2026 Beijing Animation Festival opens",
+      "link": "https://news.cgtn.com/news/2026-09-25/2026-Beijing-Animation-Festival-opens-1QJ5Ny85IqI/p.html"
     },
     {
       "id": "n15",
