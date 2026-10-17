@@ -7,8 +7,8 @@ window.CET_CONTENT = {
       "id": "n01",
       "date": "2026-10-16",
       "src": "CGTN·Travel",
-      "title": "A new railway corridor: How Nanning links Chinese and ASEAN markets",
-      "link": "https://news.cgtn.com/news/2026-10-16/A-new-railway-corridor-How-Nanning-links-Chinese-and-ASEAN-markets-1Rif5HQq3qo/p.html"
+      "title": "When torches light up the Wumeng Mountains",
+      "link": "https://news.cgtn.com/news/2026-10-16/When-torches-light-up-the-Wumeng-Mountains-1RaXGfS2Xrq/p.html"
     },
     {
       "id": "n02",
@@ -54,52 +54,52 @@ window.CET_CONTENT = {
     },
     {
       "id": "n08",
+      "date": "2026-10-12",
+      "src": "CGTN·Travel",
+      "title": "The Ming dynasty, still alive",
+      "link": "https://news.cgtn.com/news/2026-10-12/The-Ming-dynasty-still-alive-1RaPGiXSlZC/p.html"
+    },
+    {
+      "id": "n09",
       "date": "2026-10-08",
       "src": "CGTN·Business",
       "title": "IEA backs faster release of 100 million barrels as fuel prices climb",
       "link": "https://news.cgtn.com/news/2026-10-08/IEA-backs-faster-release-of-100-million-barrels-as-fuel-prices-climb-1R4j38DGLg4/p.html"
     },
     {
-      "id": "n09",
+      "id": "n10",
       "date": "2026-10-07",
       "src": "CGTN·Culture",
       "title": "The Drum and Bell Towers and the rhythms of Old Beijing",
       "link": "https://news.cgtn.com/news/2026-10-07/The-Drum-and-Bell-Towers-and-the-rhythms-of-Old-Beijing-1R2Wid9nnhe/p.html"
     },
     {
-      "id": "n10",
+      "id": "n11",
       "date": "2026-10-06",
       "src": "CGTN·Business",
       "title": "What's new in China's urban renewal plan?",
       "link": "https://news.cgtn.com/news/2026-10-06/What-s-new-in-China-s-urban-renewal-plan--1R1CoEzbHuU/p.html"
     },
     {
-      "id": "n11",
+      "id": "n12",
+      "date": "2026-10-02",
+      "src": "CGTN·Travel",
+      "title": "China's railway passenger trips hit record single-day high",
+      "link": "https://news.cgtn.com/news/2026-10-02/China-s-railway-passenger-trips-hit-record-single-day-high-1QUIZPVheVi/p.html"
+    },
+    {
+      "id": "n13",
       "date": "2026-09-28",
       "src": "CGTN·Sports",
       "title": "Zimbabwe beats Uganda to win Rugby Africa Sevens title",
       "link": "https://newsaf.cgtn.com/news/2026-09-28/Zimbabwe-beats-Uganda-to-win-Rugby-Africa-Sevens-title-1QO8hDL8KrK/p.html"
     },
     {
-      "id": "n12",
-      "date": "2026-09-28",
-      "src": "CGTN·Travel",
-      "title": "Walk into an oil painting on Pamir's Golden Grassland",
-      "link": "https://news.cgtn.com/news/2026-09-28/Walk-into-an-oil-painting-on-Pamir-s-Golden-Grassland-1QO1fU3DgEo/p.html"
-    },
-    {
-      "id": "n13",
+      "id": "n14",
       "date": "2026-09-27",
       "src": "CGTN·Sports",
       "title": "Exclusive: Mutaz Essa Barshim eyes his fifth Asian Games and beyond",
       "link": "https://news.cgtn.com/news/2026-09-27/Exclusive-Mutaz-Essa-Barshim-eyes-his-fifth-Asian-Games-and-beyond-1QM7HWZgw4U/p.html"
-    },
-    {
-      "id": "n14",
-      "date": "2026-09-25",
-      "src": "CGTN·Travel",
-      "title": "2026 Beijing Animation Festival opens",
-      "link": "https://news.cgtn.com/news/2026-09-25/2026-Beijing-Animation-Festival-opens-1QJ5Ny85IqI/p.html"
     },
     {
       "id": "n15",
