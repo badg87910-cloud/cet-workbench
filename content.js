@@ -6,58 +6,58 @@ window.CET_CONTENT = {
     {
       "id": "n01",
       "date": "2026-10-16",
-      "src": "CGTN·Travel",
-      "title": "When torches light up the Wumeng Mountains",
-      "link": "https://news.cgtn.com/news/2026-10-16/When-torches-light-up-the-Wumeng-Mountains-1RaXGfS2Xrq/p.html"
-    },
-    {
-      "id": "n02",
-      "date": "2026-10-16",
       "src": "CGTN·China",
       "title": "Foreign ministers of Djibouti, Republic of Congo to visit China",
       "link": "https://news.cgtn.com/news/2026-10-16/Foreign-ministers-of-Djibouti-Republic-of-Congo-to-visit-China-1Ri2FvJGZuE/p.html"
     },
     {
-      "id": "n03",
+      "id": "n02",
       "date": "2026-10-16",
       "src": "CGTN·China",
       "title": "Foreign diplomats explore Ningxia's specialty industries",
       "link": "https://news.cgtn.com/news/2026-10-16/Foreign-diplomats-explore-Ningxia-s-specialty-industries-1RhVzlSvQL6/p.html"
     },
     {
-      "id": "n04",
+      "id": "n03",
       "date": "2026-10-16",
       "src": "CGTN·China",
       "title": "How AI is redefining precision farming in China",
       "link": "https://news.cgtn.com/news/2026-10-16/How-AI-is-redefining-precision-farming-in-China-1RhsBvUDm12/p.html"
     },
     {
-      "id": "n05",
+      "id": "n04",
       "date": "2026-10-13",
       "src": "CGTN·Business",
       "title": "Chinese vice premier meets with Apple executive chairman",
       "link": "https://news.cgtn.com/news/2026-10-13/Chinese-vice-premier-meets-with-Apple-executive-chairman-1RcoeYcFN04/p.html"
     },
     {
-      "id": "n06",
+      "id": "n05",
       "date": "2026-10-12",
       "src": "CGTN·Culture",
       "title": "Listening to the people, building trust",
       "link": "https://news.cgtn.com/news/2026-10-12/Listening-to-the-people-building-trust-1RbmdZwTBnO/p.html"
     },
     {
-      "id": "n07",
+      "id": "n06",
       "date": "2026-10-12",
       "src": "CGTN·Culture",
       "title": "Documentary film screening draws international audience",
       "link": "https://news.cgtn.com/news/2026-10-12/Documentary-film-screening-draws-international-audience-1Rbmk9K3QnS/p.html"
     },
     {
+      "id": "n07",
+      "date": "2026-10-12",
+      "src": "CGTN·Travel",
+      "title": "Night at Yingtianmen",
+      "link": "https://news.cgtn.com/news/2026-10-12/Night-at-Yingtianmen-1RboZYOnTZS/p.html"
+    },
+    {
       "id": "n08",
       "date": "2026-10-12",
       "src": "CGTN·Travel",
-      "title": "The Ming dynasty, still alive",
-      "link": "https://news.cgtn.com/news/2026-10-12/The-Ming-dynasty-still-alive-1RaPGiXSlZC/p.html"
+      "title": "Guizhou’s waterfalls: Where the mountains roar",
+      "link": "https://news.cgtn.com/news/2026-10-12/Guizhou-s-waterfalls-Where-the-mountains-roar-1RaTe1O1ak8/p.html"
     },
     {
       "id": "n09",
@@ -82,24 +82,24 @@ window.CET_CONTENT = {
     },
     {
       "id": "n12",
-      "date": "2026-10-02",
-      "src": "CGTN·Travel",
-      "title": "China's railway passenger trips hit record single-day high",
-      "link": "https://news.cgtn.com/news/2026-10-02/China-s-railway-passenger-trips-hit-record-single-day-high-1QUIZPVheVi/p.html"
-    },
-    {
-      "id": "n13",
       "date": "2026-09-28",
       "src": "CGTN·Sports",
       "title": "Zimbabwe beats Uganda to win Rugby Africa Sevens title",
       "link": "https://newsaf.cgtn.com/news/2026-09-28/Zimbabwe-beats-Uganda-to-win-Rugby-Africa-Sevens-title-1QO8hDL8KrK/p.html"
     },
     {
-      "id": "n14",
+      "id": "n13",
       "date": "2026-09-27",
       "src": "CGTN·Sports",
       "title": "Exclusive: Mutaz Essa Barshim eyes his fifth Asian Games and beyond",
       "link": "https://news.cgtn.com/news/2026-09-27/Exclusive-Mutaz-Essa-Barshim-eyes-his-fifth-Asian-Games-and-beyond-1QM7HWZgw4U/p.html"
+    },
+    {
+      "id": "n14",
+      "date": "2026-09-25",
+      "src": "CGTN·Travel",
+      "title": "China braces for surge in travel ahead of the upcoming holidays",
+      "link": "https://news.cgtn.com/news/2026-09-25/China-braces-for-surge-in-travel-ahead-of-the-upcoming-holidays-1QHpMuDHUdy/p.html"
     },
     {
       "id": "n15",
