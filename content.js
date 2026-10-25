@@ -19,10 +19,10 @@ window.CET_CONTENT = {
     },
     {
       "id": "n03",
-      "date": "2026-10-23",
-      "src": "CGTN·Culture",
-      "title": "Wind chants at the Altar: A father-son musical dialogue",
-      "link": "https://news.cgtn.com/news/2026-10-23/Wind-chants-at-the-Altar-A-father-son-musical-dialogue-1RtuU3udvmo/p.html"
+      "date": "2026-10-22",
+      "src": "CGTN·Travel",
+      "title": "Kenya launches $160 million initiative to fund wildlife conservation",
+      "link": "https://news.cgtn.com/news/2026-10-22/Kenya-launches-160-million-initiative-to-fund-wildlife-conservation-1Rs6WIyhQbK/p.html"
     },
     {
       "id": "n04",
@@ -47,31 +47,31 @@ window.CET_CONTENT = {
     },
     {
       "id": "n07",
-      "date": "2026-10-21",
-      "src": "CGTN·Travel",
-      "title": "Where water leaves its mark: Bouyei tradition in Guizhou",
-      "link": "https://news.cgtn.com/news/2026-10-21/Where-water-leaves-its-mark-Bouyei-tradition-in-Guizhou-1RluiIMbWrC/p.html"
+      "date": "2026-10-20",
+      "src": "CGTN·Culture",
+      "title": "Who's learning Mandarin? 210 million learners, celebrity kids and more",
+      "link": "https://news.cgtn.com/news/2026-10-20/Who-s-learning-Mandarin-200-million-learners-celebrity-kids-and-more-1RoQsZO3Hgc/p.html"
     },
     {
       "id": "n08",
-      "date": "2026-10-18",
-      "src": "CGTN·Sports",
-      "title": "Li,Yan named China's flagbearers for Asian Para Games opening ceremony",
-      "link": "https://news.cgtn.com/news/2026-10-18/Li-Yan-named-China-s-flagbearers-for-Asian-Para-Games-opening-ceremony-1RkVyZsIc5q/p.html"
+      "date": "2026-10-14",
+      "src": "CGTN·Culture",
+      "title": "The Long March in paint: Retracing the journey through art",
+      "link": "https://news.cgtn.com/news/2026-10-14/The-Long-March-in-paint-Retracing-the-journey-through-art-1ReljFspTFu/p.html"
     },
     {
       "id": "n09",
-      "date": "2026-10-18",
-      "src": "CGTN·Culture",
-      "title": "2026 Yangtze River Delta International Youth Film Festival opens",
-      "link": "https://news.cgtn.com/news/2026-10-18/2026-Yangtze-River-Delta-International-Youth-Film-Festival-opens-1Rld9kPWbOo/p.html"
+      "date": "2026-10-13",
+      "src": "CGTN·Sports",
+      "title": "CBA unveils 2026-27 schedule as promotion and relegation returns",
+      "link": "https://news.cgtn.com/news/2026-10-13/CBA-unveils-2026-27-schedule-as-promotion-and-relegation-returns-1RcA2ofJTtm/p.html"
     },
     {
       "id": "n10",
-      "date": "2026-10-18",
+      "date": "2026-10-13",
       "src": "CGTN·Culture",
-      "title": "Chinese artists tell Xiongan's story through high-tech theater",
-      "link": "https://news.cgtn.com/news/2026-10-18/Chinese-artists-tell-Xiongan-s-story-through-high-tech-theater-1Rk7R9XYmWI/p.html"
+      "title": "'Fabulous Beasts' comic brings Chinese mythical creatures to life",
+      "link": "https://news.cgtn.com/news/2026-10-13/-Fabulous-Beasts-comic-brings-Chinese-mythical-creatures-to-life-1RcYjgBk3ew/p.html"
     },
     {
       "id": "n11",
@@ -82,31 +82,31 @@ window.CET_CONTENT = {
     },
     {
       "id": "n12",
-      "date": "2026-10-02",
+      "date": "2026-10-12",
       "src": "CGTN·Travel",
-      "title": "A glimpse of autumn in rural China",
-      "link": "https://news.cgtn.com/news/2026-10-02/A-glimpse-of-autumn-in-rural-China-1QUMJk2kovu/p.html"
+      "title": "The Ming dynasty, still alive",
+      "link": "https://news.cgtn.com/news/2026-10-12/The-Ming-dynasty-still-alive-1RaPGiXSlZC/p.html"
     },
     {
       "id": "n13",
-      "date": "2026-10-02",
+      "date": "2026-10-11",
       "src": "CGTN·Travel",
-      "title": "China's railway passenger trips hit record single-day high",
-      "link": "https://news.cgtn.com/news/2026-10-02/China-s-railway-passenger-trips-hit-record-single-day-high-1QUIZPVheVi/p.html"
+      "title": "Autumn colors and snow-capped peaks boost rural tourism in Xizang",
+      "link": "https://news.cgtn.com/news/2026-10-11/Autumn-colors-and-snow-capped-peaks-boost-rural-tourism-in-Xizang-1R9AOsiYxeo/p.html"
     },
     {
       "id": "n14",
-      "date": "2026-09-30",
+      "date": "2026-09-25",
       "src": "CGTN·Sports",
-      "title": "China closes athletics with three golds at Asian Games",
-      "link": "https://news.cgtn.com/news/2026-09-30/China-closes-athletics-with-three-golds-at-Asian-Games-1QR6uHtLDlm/p.html"
+      "title": "NBA G League United's visits to China strengthen basketball exchanges",
+      "link": "https://news.cgtn.com/news/2026-09-25/NBA-G-League-United-s-visits-to-China-strengthen-basketball-exchanges-1QILJoPQTAs/p.html"
     },
     {
       "id": "n15",
-      "date": "2026-09-30",
+      "date": "2026-09-25",
       "src": "CGTN·Sports",
-      "title": "China's Wei &amp; Jiang reflect on winning badminton gold at Asian Games",
-      "link": "https://news.cgtn.com/news/2026-09-30/China-s-Wei-Jiang-reflect-on-winning-badminton-gold-at-Asian-Games-1QR5Tr8hZio/p.html"
+      "title": "China bags four swimming golds, keeps women's table tennis team title",
+      "link": "https://news.cgtn.com/news/2026-09-25/China-bags-four-swimming-golds-keeps-women-s-table-tennis-team-title-1QIJjbJXb44/p.html"
     }
   ],
   "readings": [
