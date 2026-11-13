@@ -5,31 +5,31 @@ window.CET_CONTENT = {
 "news": [
     {
       "id": "n01",
+      "date": "2026-11-12",
+      "src": "CGTN·China",
+      "title": "China flags six problems with Belgium-Chile BBNJ secretariat bid",
+      "link": "https://news.cgtn.com/news/2026-11-12/China-flags-six-problems-with-Belgium-Chile-BBNJ-secretariat-bid-1S0Q5Ek3uCI/p.html"
+    },
+    {
+      "id": "n02",
+      "date": "2026-11-12",
+      "src": "CGTN·China",
+      "title": "China's multi-pronged approach to respiratory health protection",
+      "link": "https://news.cgtn.com/news/2026-11-12/China-s-multi-pronged-approach-to-respiratory-health-protection-1S0vsQemPu0/p.html"
+    },
+    {
+      "id": "n03",
       "date": "2026-11-11",
       "src": "CGTN·Travel",
       "title": "Hongcun: A village designed around water",
       "link": "https://news.cgtn.com/news/2026-11-11/Hongcun-A-village-designed-around-water-1RW06ab9ntS/p.html"
     },
     {
-      "id": "n02",
-      "date": "2026-11-11",
-      "src": "CGTN·China",
-      "title": "Mainland to share modernization opportunities with Taiwan compatriots",
-      "link": "https://news.cgtn.com/news/2026-11-11/Mainland-to-share-modernization-opportunities-with-Taiwan-compatriots-1RZwdCJOpO0/p.html"
-    },
-    {
-      "id": "n03",
-      "date": "2026-11-11",
-      "src": "CGTN·China",
-      "title": "PLA Air Force unveils its international social media accounts",
-      "link": "https://news.cgtn.com/news/2026-11-11/PLA-Air-Force-unveils-its-international-social-media-accounts-1RZ66A2gpy0/p.html"
-    },
-    {
       "id": "n04",
       "date": "2026-11-11",
       "src": "CGTN·China",
-      "title": "China Popcast: Shenzhen's got global talent",
-      "link": "https://news.cgtn.com/news/2026-11-11/China-Popcast-Shenzhen-s-got-global-talent-1RYLp8T0sTe/p.html"
+      "title": "How hand-drawn art connects military attachés to the Long March",
+      "link": "https://news.cgtn.com/news/2026-11-11/How-hand-drawn-art-connects-military-attach-s-to-the-Long-March-1RYFM8WUYko/p.html"
     },
     {
       "id": "n05",
@@ -40,38 +40,38 @@ window.CET_CONTENT = {
     },
     {
       "id": "n06",
+      "date": "2026-11-08",
+      "src": "CGTN·Business",
+      "title": "Sony: CIIE a key platform for partnerships and co‑creation in China",
+      "link": "https://news.cgtn.com/news/2026-11-08/Sony-CIIE-a-key-platform-for-partnerships-and-co-creation-in-China-1RUe3WbHEbu/p.html"
+    },
+    {
+      "id": "n07",
+      "date": "2026-11-08",
+      "src": "CGTN·Business",
+      "title": "CIIE a showcase for Iranian businesses",
+      "link": "https://news.cgtn.com/news/2026-11-08/CIIE-a-showcase-for-Iranian-businesses-1RUg9qrJ5ni/p.html"
+    },
+    {
+      "id": "n08",
       "date": "2026-11-07",
       "src": "CGTN·Culture",
       "title": "A welcoming tea culture journey begins in Beijing",
       "link": "https://news.cgtn.com/news/2026-11-07/A-welcoming-tea-culture-journey-begins-in-Beijing--1RSsxRi9Ixq/p.html"
     },
     {
-      "id": "n07",
-      "date": "2026-11-07",
-      "src": "CGTN·Business",
-      "title": "Adidas executive: Made for China, now a global hit",
-      "link": "https://news.cgtn.com/news/2026-11-07/Adidas-executive-Made-for-China-now-a-global-hit-1RSuErlKQYE/p.html"
-    },
-    {
-      "id": "n08",
-      "date": "2026-11-07",
-      "src": "CGTN·Business",
-      "title": "UK-China business leader: CIIE connects businesses across China",
-      "link": "https://news.cgtn.com/news/2026-11-07/UK-China-business-leader-CIIE-connects-businesses-across-China-1RSwMsapk2s/p.html"
-    },
-    {
       "id": "n09",
-      "date": "2026-11-05",
-      "src": "CGTN·Travel",
-      "title": "Mastering the bamboo: Centuries of Huizhou craftsmanship in Hongcun",
-      "link": "https://news.cgtn.com/news/2026-11-05/Mastering-the-bamboo-Centuries-of-Huizhou-craftsmanship-in-Hongcun-1RKdPwFFPgc/p.html"
+      "date": "2026-11-06",
+      "src": "CGTN·Business",
+      "title": "Chinese lawmakers flag market stability, opening-up fixes",
+      "link": "https://news.cgtn.com/news/2026-11-06/Chinese-lawmakers-flag-market-stability-opening-up-fixes-1RQKzOw3rXy/p.html"
     },
     {
       "id": "n10",
       "date": "2026-11-05",
-      "src": "CGTN·Business",
-      "title": "9th China International Import Expo opens in Shanghai",
-      "link": "https://news.cgtn.com/news/2026-11-05/9th-China-International-Import-Expo-opens-in-Shanghai-1ROQYoaVJmw/p.html"
+      "src": "CGTN·Travel",
+      "title": "Mastering the bamboo: Centuries of Huizhou craftsmanship in Hongcun",
+      "link": "https://news.cgtn.com/news/2026-11-05/Mastering-the-bamboo-Centuries-of-Huizhou-craftsmanship-in-Hongcun-1RKdPwFFPgc/p.html"
     },
     {
       "id": "n11",
